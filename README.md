@@ -1,5 +1,8 @@
 # endian-log-filter
-Endian VPN powershell script that will filter the logs for when each user logged in
+Endian VPN powershell script that will filter the logs for when each user logged in  
+
+> Coding languague: English | EN  
+> User displayed language: Portuguese | PT  
 
 Unfortanetly Endian VPN doesn't let you grab the a log of a whole year, you would need to grab each month. But you can then merge all those logs together and tehn run the script has it would be faster, easier and less confusing.
 ```
